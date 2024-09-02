@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Outdoor Sofa",
+    "category": "Sofa",
+    "price": 2999.99,
+    "description": "Experience ultimate relaxation with our luxury outdoor sofa, combining comfort, style, and weather-resistant durability. This sofa is perfect for any outdoor setting, offering ample seating and a sophisticated design.",
+    "images": [
+      "https://therattancompany.co.uk/cdn/shop/files/7SeaterLuxuryGradeATeakSofa_sSet.jpg?v=1684491486&width=3000",
+      "https://therattancompany.co.uk/cdn/shop/files/TeakSofa_sHeader.jpg?v=1684491486&width=3000",
+      "https://therattancompany.co.uk/cdn/shop/files/TeakSofa_sCornerSeatFromBehind.jpg?v=1684492192&width=3000"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Royal Garden Dining Set",
+    "category": "Dining Set",
+    "price": 5999.99,
+    "description": "Elevate your outdoor dining experience with the Royal Garden Dining Set. Crafted for elegance and durability, this set is ideal for hosting grand gatherings or intimate meals in your outdoor oasis.",
+    "images": [
+      "https://cdn.ecommercedns.uk/files/3/234443/1/37649061/mal150xfix-ws-a-malaga-6-seater-fixed-rectangular-dining-set-lif.jpg",
+      "https://cdn.ecommercedns.uk/files/3/234443/5/37649065/malaga-6-seater-fixed-rectangular-dining-set-furniture-closeup.jpg",
+      "https://cdn.ecommercedns.uk/files/3/234443/2/37649032/mal150xfix-ws-1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Opulent Patio Chair",
+    "category": "Chair",
+    "price": 899.99,
+    "description": "Indulge in unmatched comfort with the Opulent Patio Chair. Its luxurious design and sturdy construction make it perfect for adding a touch of elegance to your outdoor seating area.",
+    "images": [
+      "https://www.coxandcox.co.uk/media/catalog/product/s/s/ss24-1536150.jpg?quality=80&fit=bounds&height=800&width=800",
+      "https://www.coxandcox.co.uk/media/catalog/product/s/s/ss24-1536150-detail1.jpg?quality=80&fit=bounds&height=800&width=800",
+      "https://www.coxandcox.co.uk/media/catalog/product/s/s/ss24-1536150-detail3.jpg?quality=80&fit=bounds&height=800&width=800"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Prestige Sun Lounger",
+    "category": "Lounger",
+    "price": 2299.99,
+    "description": "Relax in unparalleled style with the Prestige Sun Lounger. Offering a sleek design and supreme comfort, it's the perfect addition to your poolside or garden, providing relaxation at its finest.",
+    "images": [
+      "https://images.whoppah.com/products/KH2JYDHZS3DD/7YMIK0174G8G/2-hartman-prestige-loungers-stainless-steelteak-200-cm-long.jpeg?width=1280",
+      "https://images.whoppah.com/products/KH2JYDHZS3DD/OEI3BPBZDGF7/2-hartman-prestige-loungers-stainless-steelteak-200-cm-long.jpeg?width=1280",
+      "https://images.whoppah.com/products/KH2JYDHZS3DD/Y3BGOTTH2LTN/2-hartman-prestige-loungers-stainless-steelteak-200-cm-long.jpeg?width=1280"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elegant Pergola",
+    "category": "Pergola",
+    "price": 10999.99,
+    "description": "Enhance your outdoor space with the Elegant Pergola. Its timeless design and durable craftsmanship make it the perfect centerpiece for any garden or patio, providing both style and shade.",
+    "images": [
+      "https://www.vinyl-pergola-kits.com/wp-content/uploads/2020/08/fancy-pergolas.jpg",
+      "https://www.vinyl-pergola-kits.com/wp-content/uploads/2020/08/elegant-pergola-for-sale.jpg",
+      "https://www.vinyl-pergola-kits.com/wp-content/uploads/2020/08/elegant-pergolas.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Exquisite Garden Bench",
+    "category": "Bench",
+    "price": 1799.99,
+    "description": "Add timeless charm to your garden with the Exquisite Garden Bench. Crafted for both beauty and comfort, it offers a perfect spot to relax and enjoy your outdoor surroundings.",
+    "images": [
+      "https://www.sittingspiritually.co.uk/image/sitting-spiritually-rhs-4-seasons-bench-spring-1.jpg?size=1400&constrain=w",
+      "https://www.sittingspiritually.co.uk/image/untitled-2741.webp?size=1050&constrain=null&quality=90",
+      "https://www.sittingspiritually.co.uk/image/garden-swing-seat-design-2.webp?size=1050&constrain=null&quality=90"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Premium Gazebo",
+    "category": "Gazebo",
+    "price": 12999.99,
+    "description": "Transform your outdoor area with the Premium Gazebo. Combining stylish shelter with exceptional durability, it's the ideal solution for outdoor gatherings and relaxation, no matter the weather.",
+    "images": [
+      "https://media.toolport.eu/image/private/t_houseoftents/t_article_commerce_l_lg/f_auto/shop/product/primary/GBD_0300x0400_SUN_PRE_ST.jpg",
+      "https://media.toolport.eu/image/private/t_houseoftents/t_article_commerce_l_lg/f_auto/shop/product/primary/DTL-1_GAR_0300x0400_SUNS_PRE_ST.jpg",
+      "https://media.toolport.eu/image/private/t_houseoftents/t_article_commerce_l_lg/f_auto/shop/product/primary/DTL3_SUN_PRE_ST.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Majestic Outdoor Bar Set",
+    "category": "Bar Set",
+    "price": 4999.99,
+    "description": "Entertain in grandeur with the Majestic Outdoor Bar Set. Designed for luxury and sophistication, it's perfect for hosting outdoor events or enjoying a relaxing drink with friends and family.",
+    "images": [
+      "https://www.hottubsathome.co.uk/wp-content/uploads/2024/06/Screenshot-2024-06-09-at-10.58.11.png",
+      "https://www.hottubsathome.co.uk/wp-content/uploads/2024/06/Screenshot-2024-06-09-at-10.58.56.png",
+      "https://www.hottubsathome.co.uk/wp-content/uploads/2024/06/Screenshot-2024-06-09-at-10.59.08.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Luxe Outdoor Daybed",
+    "category": "Daybed",
+    "price": 3999.99,
+    "description": "Unwind in pure luxury with the Luxe Outdoor Daybed. Offering plush comfort and modern elegance, it's the perfect spot for a relaxing afternoon in your garden or by the pool.",
+    "images": [
+      "https://www.hadleyrose.co.uk/media/catalog/product/cache/1/thumbnail/600x/040ec09b1e35df139433887a97daa66f/b/a/barcelona_luxury_outdoor_daybed_-_www.hadleyrose.co.uk.jpg",
+      "https://www.hadleyrose.co.uk/media/catalog/product/cache/1/thumbnail/600x/040ec09b1e35df139433887a97daa66f/b/a/barcelona_luxury_outdoor_daybed_2_-_www.hadleyrose.co.uk.jpg",
+      "https://www.hadleyrose.co.uk/media/catalog/product/cache/1/thumbnail/600x/040ec09b1e35df139433887a97daa66f/u/n/untitled_design_-_2020-05-14t181924.223_3_1_2.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Grand Outdoor Dining Set",
+    "category": "Dining Set",
+    "price": 7999.99,
+    "description": "Host lavish outdoor gatherings with the Grand Outdoor Dining Set. Combining spacious seating with a sophisticated design, it provides the perfect setting for memorable meals with family and friends.",
+    "images": [
+      "https://www.country-charm.com/wp-content/uploads/2018/08/Victorian-Maxi-Grand-Furniture-Set-Black.jpg",
+      "https://www.country-charm.com/wp-content/uploads/2018/08/Victorian-Maxi-Table-with-8-Chairs.jpg",
+      "https://www.country-charm.com/wp-content/uploads/2018/08/Jardine-Leisure-013-1.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Regal Outdoor Sofa Set",
+    "category": "Sofa",
+    "price": 4599.99,
+    "description": "Elevate your patio with the Regal Outdoor Sofa Set. Combining royal elegance and comfort, this set creates a luxurious atmosphere for your outdoor lounging, perfect for relaxation or entertaining guests.",
+    "images": [
+      "https://regalgardens.co.uk/cdn/shop/files/ChedworthCornerSofaOutdoorFurnitureSet_10.png?v=1721300850&width=990",
+      "https://regalgardens.co.uk/cdn/shop/files/ChedworthCornerSofaOutdoorFurnitureSet_8.png?v=1721300850&width=990",
+      "https://regalgardens.co.uk/cdn/shop/files/ChedworthCornerSofaOutdoorFurnitureSet.png?v=1721300850&width=990"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Supreme Garden Armchair",
+    "category": "Chair",
+    "price": 1299.99,
+    "description": "Experience refined relaxation with the Supreme Garden Armchair. Crafted for luxurious comfort, this armchair offers timeless style that complements any outdoor space, making it a perfect addition to your garden.",
+    "images": [
+      "https://www.gomodern.co.uk/var/images/product/1200.863/GM-PURE-04-1-large.jpg",
+      "https://www.gomodern.co.uk/var/images/product/1200.863/GM-PURE-04-9-large.jpg",
+      "https://www.gomodern.co.uk/var/images/product/1200.863/GM-PURE-04-8-large.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Elite Patio Set",
+    "category": "Patio Set",
+    "price": 6999.99,
+    "description": "Upgrade your outdoor living with the Elite Patio Set. Featuring a premium design and exceptional durability, this set is perfect for enjoying sunny days and hosting gatherings in style.",
+    "images": [
+      "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/5/p518-838-835-821-2-701-702_asl20221.jpg",
+      "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/5/p518-838-835-821-2-701-702-sw_asl20221.jpg",
+      "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/5/p518-835-set_asl20221.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chateau Outdoor Table",
+    "category": "Table",
+    "price": 2499.99,
+    "description": "The Chateau Outdoor Table offers a sophisticated dining experience. With its elegant design and robust durability, it’s perfect for outdoor meals, providing a stylish centerpiece for your patio or garden.",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-hubyt/images/stencil/1280x1280/products/255/480/oval_table__42552.1489605919.jpg?c=2",
+      "https://m.media-amazon.com/images/I/91d00ZWpv0L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/91XfjY7PDsL._AC_SX679_.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Royal Canopy Bed",
+    "category": "Canopy Bed",
+    "price": 7499.99,
+    "description": "Indulge in luxury with the Royal Canopy Bed. This outdoor masterpiece combines comfort and elegance, offering a serene space for relaxation in your garden or by the pool.",
+    "images": [
+      "https://bernadettelivingston.com/13770-large_default/luxurious-bed-with-canopy.jpg",
+      "https://bernadettelivingston.com/13771-large_default/luxurious-bed-with-canopy.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Imperial Garden Swing",
+    "category": "Swing",
+    "price": 1999.99,
+    "description": "The Imperial Garden Swing adds grandeur to any outdoor space. Its luxurious design and comfortable seating provide a perfect blend of relaxation and style for your garden.",
+    "images": [
+      "https://www.blackcountrymetalworks.co.uk/media/catalog/product/cache/2f3a424002bb3e33f9c12c185daf8c9e/g/b/gb056_blk_gld_-_briar_rose_garden_swing_seat_-_blackgold.webp",
+      "https://www.blackcountrymetalworks.co.uk/media/catalog/product/cache/2f3a424002bb3e33f9c12c185daf8c9e/b/l/black_and_gold_painted_swing_seat_for_two_people.webp",
+      "https://www.blackcountrymetalworks.co.uk/media/catalog/product/cache/2f3a424002bb3e33f9c12c185daf8c9e/f/i/fixing_point_on_foot_of_ornate_swing_seat.webp"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Luxurious Hammock Set",
+    "category": "Hammock",
+    "price": 1499.99,
+    "description": "Relax in style with our Luxurious Hammock Set. Perfect for enjoying lazy days outdoors, this hammock offers unmatched comfort and adds a touch of elegance to any garden setting.",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0516/8889/8748/files/hatteras-hammocks-800x600-1.jpg",
+      "https://cdn.shopify.com/s/files/1/0516/8889/8748/files/hatteras-hammocks-800x600-3.jpg",
+      "https://cdn.shopify.com/s/files/1/0516/8889/8748/files/hatteras-hammocks-800x600-6.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Designer Outdoor Fire Pit",
+    "category": "Fire Pit",
+    "price": 2999.99,
+    "description": "Add warmth and style to your outdoor gatherings with the Designer Outdoor Fire Pit. Its sleek design and durable construction make it the perfect centerpiece for cozy evenings outside.",
+    "images": [
+      "https://www.solusdecor.co.uk/wp-content/uploads/2018/11/IMG_3891-reduced-1263x842.jpg",
+      "https://www.solusdecor.co.uk/wp-content/uploads/2018/11/IMG_3900-reduced-1263x842.jpg",
+      "https://solusdecor.co.uk/wp-content/uploads/2018/11/IMG_3891-reduced.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Exclusive Garden Pavilion",
+    "category": "Pavilion",
+    "price": 9999.99,
+    "description": "The Exclusive Garden Pavilion offers a luxurious retreat in your backyard. Combining elegant design with superior craftsmanship, it provides a sheltered space for relaxation and outdoor entertainment.",
+    "images": [
+      "https://www.crownpavilions.com/wp-content/uploads/2023/08/Crown-Tudor_Seats6-8_600x400-4.jpg.webp",
+      "https://www.crownpavilions.com/wp-content/uploads/2023/08/Card.jpg.webp",
+      "https://www.crownpavilions.com/wp-content/uploads/2023/08/the_rose_gallery_14-1024x683.jpeg.webp"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Lavish Poolside Lounge Set",
+    "category": "Lounge Set",
+    "price": 8999.99,
+    "description": "Unwind in luxury with the Lavish Poolside Lounge Set. Designed for ultimate comfort and style, this set is perfect for creating a serene outdoor space by the pool or garden.",
+    "images": [
+      "https://www.suns-outdoorfurniture.com/media/catalog/product/cache/83cb5d9d1dae76146930bbdbc30c3dc3/l/o/loungeset_suns_evora_mw_softgrey_mood_01_2500.jpg",
+      "https://www.suns-outdoorfurniture.com/media/catalog/product/cache/83cb5d9d1dae76146930bbdbc30c3dc3/l/o/loungeset_suns_evora_mw_softgrey_mood_03_2500.jpg",
+      "https://www.suns-outdoorfurniture.com/media/catalog/product/cache/83cb5d9d1dae76146930bbdbc30c3dc3/c/h/chaiselongue_suns_evora_mw_softgrey_mood_2500.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Palatial Garden Parasol",
+    "category": "Parasol",
+    "price": 1199.99,
+    "description": "The Palatial Garden Parasol provides stylish shade and protection. With its grand design and durable materials, it adds elegance to any outdoor setting while shielding you from the sun.",
+    "images": [
+      "https://www.homeanddeco.com/dw/image/v2/BKJG_PRD/on/demandware.static/-/Sites-master_product/default/dw2191483c/images/large/lifestyle-garden/portals-side-shade-parasol-901099515.jpg?sw=825&sh=900",
+      "https://www.homeanddeco.com/dw/image/v2/BKJG_PRD/on/demandware.static/-/Sites-master_product/default/dw70226b9e/images/large/lifestyle-garden/portals-side-shade-parasol-901099515_01.jpg?sw=825&sh=900",
+      "https://www.homeanddeco.com/dw/image/v2/BKJG_PRD/on/demandware.static/-/Sites-master_product/default/dw354d3f8f/images/large/lifestyle-garden/portals-side-shade-parasol-901099515_03.jpg?sw=825&sh=900"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Lux Patio Dining Table",
+    "category": "Dining Table",
+    "price": 3499.99,
+    "description": "The Lux Patio Dining Table offers a premium outdoor dining experience. With a sleek design and durable construction, it's perfect for both casual meals and elegant gatherings in your garden.",
+    "images": [
+      "https://www.gardenfurniturecentre.co.uk/media/catalog/product/cache/f091cbf23db954fa70781959871445fd/t/h/thorn_lux5_bi.jpg",
+      "https://www.gardenfurniturecentre.co.uk/media/catalog/product/cache/a817142ff02af65f9169a1e9cac05848/t/h/thornbury_kt10164_1_1_1.jpg",
+      "https://www.gardenfurniturecentre.co.uk/media/catalog/product/cache/f091cbf23db954fa70781959871445fd/p/a/patching_6_1_1.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Noble Outdoor Chaise",
+    "category": "Chaise",
+    "price": 2599.99,
+    "description": "The Noble Outdoor Chaise offers a perfect blend of comfort and elegance. Its sleek design and plush cushions make it an ideal spot for relaxing in style in your garden or patio.",
+    "images": [
+      "https://i5.walmartimages.com/asr/f987559f-14bc-4890-8c8d-9acd28f9fd2e.6744d267bfa73159ed4d11ac9456af38.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/2a38d337-3794-453f-9e6a-d00c7e75a9fe.4e63ff543a8e99032d5c4561acbc0078.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "https://i5.walmartimages.com/asr/8346782b-6766-4fa0-b70f-db0a5474dcd6.cd501c221f98f988af90f6485b455ce4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Imperial Patio Sofa",
+    "category": "Sofa",
+    "price": 4799.99,
+    "description": "The Imperial Patio Sofa combines luxury and comfort, providing an elegant seating option for your outdoor space. Its timeless design and high-quality materials make it perfect for sophisticated outdoor lounging.",
+    "images": [
+      "https://files.ekmcdn.com/075b0f/images/2-seater-coffee-table-imperial-companion-set-5-p.jpg?w=570&h=9999&v=DFBFB9BD-E1AC-447C-B9A7-F043FD7C76FF",
+      "https://files.ekmcdn.com/075b0f/images/2-seater-coffee-table-imperial-companion-set-5-p.jpg?w=570&h=9999&v=DFBFB9BD-E1AC-447C-B9A7-F043FD7C76FF",
+      "https://files.ekmcdn.com/075b0f/images/2-seater-coffee-table-imperial-companion-set-5-p.jpg?w=570&h=9999&v=DFBFB9BD-E1AC-447C-B9A7-F043FD7C76FF"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Extravagant Garden Lounger",
+    "category": "Lounger",
+    "price": 3699.99,
+    "description": "The Extravagant Garden Lounger offers the ultimate in outdoor relaxation. With its luxurious design and plush cushioning, it's perfect for soaking up the sun in style and comfort.",
+    "images": [
+      "https://sunslifestyle.com/wp-content/uploads/2021/06/SUN-Nardo-Lounger-2-scaled.jpg",
+      "https://sunslifestyle.com/wp-content/uploads/2021/06/SUN-Nardo-Lounger-1-scaled.jpg",
+      "https://sunslifestyle.com/wp-content/uploads/2021/06/SUN-Nardo-Lounger-3-scaled.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Elite Pergola Swing",
+    "category": "Swing",
+    "price": 2899.99,
+    "description": "The Elite Pergola Swing combines elegance and comfort, offering a stylish and relaxing spot in your garden. Its sturdy design and comfortable seating make it perfect for outdoor lounging.",
+    "images": [
+      "https://m.media-amazon.com/images/I/619QudGU2NL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/31M0HxNgYxL.jpg",
+      "https://m.media-amazon.com/images/I/51QXGx5z-vL._SS100_.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Royal Garden Pavilion",
+    "category": "Pavilion",
+    "price": 10999.99,
+    "description": "The Royal Garden Pavilion is a statement of luxury. Offering ample space and elegant design, it's perfect for creating a sheltered area for relaxation or hosting outdoor gatherings in style.",
+    "images": [
+      "https://d8uprjylqiycc.cloudfront.net/media/webp_image/catalog/product/cache/cf6b07319a5cfe235a33ac3fc9783531/e/x/exwb48uy.webp",
+      "https://d8uprjylqiycc.cloudfront.net/media/webp_image/catalog/product/cache/cf6b07319a5cfe235a33ac3fc9783531/c/a/capture1_3.webp",
+      "https://d8uprjylqiycc.cloudfront.net/media/webp_image/catalog/product/cache/cf6b07319a5cfe235a33ac3fc9783531/c/a/capture3_2.webp"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Platinum Outdoor Cabana",
+    "category": "Cabana",
+    "price": 13999.99,
+    "description": "The Platinum Outdoor Cabana offers an unparalleled blend of luxury and comfort. Perfect for outdoor relaxation, it provides a stylish and sheltered space for lounging by the pool or in your garden.",
+    "images": [
+      "https://www.ruma.co.uk/cdn/shop/files/ruma-outdoor-platinum-riva-taupe-2-5m-round-parasol-40196697915605_1540x.jpg?v=1700131440",
+      "https://www.ruma.co.uk/cdn/shop/files/ruma-outdoor-platinum-riva-taupe-2-5m-round-parasol-37410067906773_1540x.jpg?v=1700153933",
+      "https://www.ruma.co.uk/cdn/shop/files/ruma-outdoor-platinum-riva-taupe-2-5m-round-parasol-37410067939541_1540x.jpg?v=1700153770"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Deluxe Garden Pergola",
+    "category": "Pergola",
+    "price": 12999.99,
+    "description": "The Deluxe Garden Pergola offers a perfect blend of style and functionality. Its sleek design and sturdy construction make it a stunning addition to any outdoor space, providing both shade and elegance.",
+    "images": [
+      "https://gardensofstyle.co.uk/cdn/shop/files/sunslifestyle-maranza-deluxe-pergola-various-sizes-gardens-of-style-1_2400x2400_crop_center.jpg?v=1698506695",
+      "https://gardensofstyle.co.uk/cdn/shop/files/sunslifestyle-maranza-deluxe-pergola-various-sizes-gardens-of-style-3_2400x2400_crop_center.jpg?v=1698506697",
+      "https://gardensofstyle.co.uk/cdn/shop/files/sunslifestyle-maranza-deluxe-pergola-various-sizes-gardens-of-style-3_2400x2400_crop_center.jpg?v=1698506697"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Lavish Outdoor Canopy Bed",
+    "category": "Canopy Bed",
+    "price": 9999.99,
+    "description": "The Lavish Outdoor Canopy Bed offers a luxurious retreat in your garden. With plush cushions and a stylish canopy, it’s perfect for relaxing in elegance and comfort in any outdoor setting.",
+    "images": [
+      "https://luxury-outdoor-living.co.uk/wp-content/uploads/2017/12/Luxury-Skyline-Strips-Four-Poster-.jpg",
+      "https://luxury-outdoor-living.co.uk/wp-content/uploads/2017/12/Luxury-Skyline-Strips-Four-Poster.jpg",
+      "https://luxury-outdoor-living.co.uk/wp-content/uploads/2017/12/Luxury-Skyline-Strips-Four-Poster-1-150x150.jpg"
+    ]
+  }
+]
